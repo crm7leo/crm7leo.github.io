@@ -27,4 +27,4 @@ Semana
 
 Vida Fitness
 
-![Crepe](https://media.revistagq.com/photos/62d548092a93146f28bd2102/1:1/w_1600%2Cc_limit/GettyImages-1131209118%2520(2).jpg) {: .mx-auto.d-block :}
+![Crepe](https://media.revistagq.com/photos/62d548092a93146f28bd2102/1:1/w_1600%2Cc_limit/GettyImages-1131209118%2520(2).jpg) 
