@@ -141,8 +141,8 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/pexels-eberhard-grossgasteiger-691668.jpg"
-footer-img: "/assets/img/pexels-eberhard-grossgasteiger-691668.jpg"
+navbar-img: "/assets/img/pexels-sohail-nachiti-807598.jpg"
+footer-img: "/assets/img/pexels-sohail-nachiti-807598.jpg"
 page-img: "/assets/img/pexels-aleksandar-pasaric-1323712.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
