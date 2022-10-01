@@ -1,27 +1,28 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Mens sana in corpore sano
+subtitle: Mente sana en un cuerpo sano
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Todos sabemos que debemos hacer deporte para mantenernos activos , pero para mantenerse sano no sirve solo con hacer ejercicio fisico.
 
-**Here is some bold text**
+Esto es, entendiendo el sentido que va detrás de esta frase. El buen estado físico en general, incluye practica de actividad física y alimentación y se conecta directamente con nuestro estado mental.
 
-## Here is a secondary heading
+Hoy optamos por tener una dieta saludable con alimentos que sean más sanos y que hagan “bien” a nuestro organismo.  Los productos derivados de vegetales, los modos de cocinar sin grasas como las freidoras de aire, las opciones veganas… todo hace que se mejore nuestro estado físico.
 
-Here's a useless table:
+Esto, a su vez, puede derivar en una óptima condición mental y que se cumpla la profecía de la expresión latina universal.
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+## Mi Rutina de deporte semanal
+
+Semana 
+
+| Lunes | Martes | Miercoles|Jueves|Viernes|Sábado|Domingo
+| :------ |:--- | :--- | :--- |:--- | :--- | :--- |
+| Espalda | Pecho | Pierna | Descanso | Espalda | Pecho | Descanso 
 
 
 How about a yummy crepe?
