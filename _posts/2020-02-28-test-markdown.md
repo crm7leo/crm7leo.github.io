@@ -4,9 +4,6 @@ title: Mens sana in corpore sano
 subtitle: Mente sana en un cuerpo sano
 cover-img: /assets/img/sss.png
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
 ---
 
 Todos sabemos que debemos hacer deporte para mantenernos activos , pero para mantenerse sano no sirve solo con hacer ejercicio fisico.
