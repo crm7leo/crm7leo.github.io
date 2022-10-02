@@ -2,6 +2,7 @@
 layout: post
 title: Mens sana in corpore sano
 subtitle: Mente sana en un cuerpo sano
+cover-img: /assets/img/sss.png
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
